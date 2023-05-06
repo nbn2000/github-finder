@@ -1,0 +1,12 @@
+/* Alert styles */
+.alert {
+    padding: 0.7rem;
+    margin: 1rem 0;
+    opacity: 0.9;
+    background: var(--light-white);
+    color: var(--dark-color);
+}
+
+.alert-light {
+    color: var(--dark-color);
+}

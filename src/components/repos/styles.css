@@ -1,0 +1,6 @@
+/* Ropos styles */
+.card {
+    padding: 1rem;
+    border: var(--light-white) 1px dotted;
+    margin: 0.7rem 0;
+  }
