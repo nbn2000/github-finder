@@ -1,5 +1,5 @@
 # github-finder
-<p className="project-details__desc-para">
+<p>
                 Introducing "GitHub Finder" - a dynamic, responsive, and user-friendly website that simplifies the 
                 process of finding and exploring users on GitHub. This web application allows users to effortlessly 
                 search for any GitHub user using the convenient search bar.
